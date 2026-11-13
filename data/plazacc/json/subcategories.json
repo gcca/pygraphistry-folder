@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Servicios",
+    "category_id": 3
+  },
+  {
+    "id": 2,
+    "name": "Bolsos y Accesorios",
+    "category_id": 5
+  },
+  {
+    "id": 3,
+    "name": "Bancos y Casas de cambio",
+    "category_id": 5
+  },
+  {
+    "id": 4,
+    "name": "Cafeterías, Postres y Helados",
+    "category_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Calzado y Articulos de Cuero",
+    "category_id": 5
+  },
+  {
+    "id": 6,
+    "name": "Cultura, Educación y Arte",
+    "category_id": 5
+  },
+  {
+    "id": 7,
+    "name": "Deportes y Outdoor",
+    "category_id": 5
+  },
+  {
+    "id": 8,
+    "name": "Entretenimiento y Diversión",
+    "category_id": 5
+  },
+  {
+    "id": 9,
+    "name": "Gimnasio",
+    "category_id": 5
+  },
+  {
+    "id": 10,
+    "name": "Hogar y Mascotas",
+    "category_id": 5
+  },
+  {
+    "id": 11,
+    "name": "Joyería y Relojería",
+    "category_id": 5
+  },
+  {
+    "id": 12,
+    "name": "Moda Femenina y Masculina",
+    "category_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Moda Infantil y Juvenil",
+    "category_id": 5
+  },
+  {
+    "id": 14,
+    "name": "Módulos de Comida",
+    "category_id": 2
+  },
+  {
+    "id": 15,
+    "name": "Ópticas",
+    "category_id": 5
+  },
+  {
+    "id": 16,
+    "name": "Plaza de Comidas",
+    "category_id": 2
+  },
+  {
+    "id": 17,
+    "name": "Regalos, Jugueterías y Artesanías",
+    "category_id": 5
+  },
+  {
+    "id": 18,
+    "name": "Restaurantes",
+    "category_id": 2
+  },
+  {
+    "id": 19,
+    "name": "Ropa Interior y de Baño",
+    "category_id": 5
+  },
+  {
+    "id": 20,
+    "name": "Salud, Belleza y Perfumería",
+    "category_id": 5
+  },
+  {
+    "id": 21,
+    "name": "Servicios y Centros de Atención",
+    "category_id": 5
+  },
+  {
+    "id": 22,
+    "name": "Supermercados",
+    "category_id": 4
+  },
+  {
+    "id": 23,
+    "name": "Tecnología",
+    "category_id": 5
+  },
+  {
+    "id": 24,
+    "name": "Tiendas de Conveniencia",
+    "category_id": 5
+  },
+  {
+    "id": 25,
+    "name": "Tiendas por Departamentos",
+    "category_id": 6
+  },
+  {
+    "id": 26,
+    "name": "Vehículos y Viajes",
+    "category_id": 5
+  },
+  {
+    "id": 27,
+    "name": "Cajeros",
+    "category_id": 3
+  }
+]

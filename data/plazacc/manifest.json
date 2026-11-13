@@ -1,0 +1,101 @@
+{
+  "format_version": 1,
+  "prepared_at": "2026-11-13T13:41:00.973112+00:00",
+  "sources": {
+    "catalog": {
+      "path": "../mappdn/data/catalog.json",
+      "retrieved_at": "2026-11-12T01:50:18.300170+00:00",
+      "urls": {
+        "brands": "https://maniaxe.plazasanmiguel.io/api/brands/",
+        "subcategories": "https://maniaxe.plazasanmiguel.io/api/subcategories/"
+      },
+      "sha256": "7df2563a92b673495fceca700ab7e3e9467721644c7204554e74be4a0d681454"
+    },
+    "events": {
+      "url": "https://overlord.plazasanmiguel.io/kiosk/api/v1/event/",
+      "retrieved_at": "2026-11-13T13:41:00.958599+00:00"
+    }
+  },
+  "tables": {
+    "brands": {
+      "columns": {
+        "id": "Int64",
+        "name": "string",
+        "description": "string",
+        "directory_id": "Int64",
+        "is_active": "boolean",
+        "is_new": "boolean",
+        "subcategory_id": "Int64",
+        "logo": "string",
+        "store_photo": "string",
+        "phone": "string",
+        "website": "string",
+        "facebook": "string",
+        "instagram": "string",
+        "tiktok": "string"
+      },
+      "row_count": 327
+    },
+    "stores": {
+      "columns": {
+        "id": "string",
+        "brand_id": "Int64",
+        "location_id": "Int64"
+      },
+      "row_count": 329
+    },
+    "locations": {
+      "columns": {
+        "id": "Int64",
+        "name": "string"
+      },
+      "row_count": 19
+    },
+    "categories": {
+      "columns": {
+        "id": "Int64",
+        "name": "string"
+      },
+      "row_count": 5
+    },
+    "subcategories": {
+      "columns": {
+        "id": "Int64",
+        "name": "string",
+        "category_id": "Int64"
+      },
+      "row_count": 27
+    },
+    "events": {
+      "columns": {
+        "id": "Int64",
+        "title": "string",
+        "description": "string",
+        "start_time": "string",
+        "end_time": "string",
+        "image": "string",
+        "category_id": "Int64",
+        "venue_id": "string"
+      },
+      "row_count": 38
+    },
+    "event_categories": {
+      "columns": {
+        "id": "Int64",
+        "name": "string",
+        "display_name": "string"
+      },
+      "row_count": 4
+    },
+    "event_venues": {
+      "columns": {
+        "id": "string",
+        "name": "string",
+        "display_name": "string",
+        "external_id": "string",
+        "location_id": "Int64"
+      },
+      "row_count": 6
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Jóvenes",
+    "display_name": "Jóvenes"
+  },
+  {
+    "id": 2,
+    "name": "niños",
+    "display_name": "Niños"
+  },
+  {
+    "id": 4,
+    "name": "Adultos Mayores",
+    "display_name": "Adultos Mayores"
+  },
+  {
+    "id": 5,
+    "name": "familiar",
+    "display_name": "Para toda la familia"
+  }
+]

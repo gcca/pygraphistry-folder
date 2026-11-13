@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "100:4",
+    "brand_id": 100,
+    "location_id": 4
+  },
+  {
+    "id": "101:4",
+    "brand_id": 101,
+    "location_id": 4
+  },
+  {
+    "id": "102:19",
+    "brand_id": 102,
+    "location_id": 19
+  },
+  {
+    "id": "103:4",
+    "brand_id": 103,
+    "location_id": 4
+  },
+  {
+    "id": "104:4",
+    "brand_id": 104,
+    "location_id": 4
+  },
+  {
+    "id": "105:4",
+    "brand_id": 105,
+    "location_id": 4
+  },
+  {
+    "id": "106:4",
+    "brand_id": 106,
+    "location_id": 4
+  },
+  {
+    "id": "107:9",
+    "brand_id": 107,
+    "location_id": 9
+  },
+  {
+    "id": "108:9",
+    "brand_id": 108,
+    "location_id": 9
+  },
+  {
+    "id": "110:9",
+    "brand_id": 110,
+    "location_id": 9
+  },
+  {
+    "id": "111:9",
+    "brand_id": 111,
+    "location_id": 9
+  },
+  {
+    "id": "112:9",
+    "brand_id": 112,
+    "location_id": 9
+  },
+  {
+    "id": "113:9",
+    "brand_id": 113,
+    "location_id": 9
+  },
+  {
+    "id": "114:10",
+    "brand_id": 114,
+    "location_id": 10
+  },
+  {
+    "id": "115:10",
+    "brand_id": 115,
+    "location_id": 10
+  },
+  {
+    "id": "116:10",
+    "brand_id": 116,
+    "location_id": 10
+  },
+  {
+    "id": "117:10",
+    "brand_id": 117,
+    "location_id": 10
+  },
+  {
+    "id": "118:10",
+    "brand_id": 118,
+    "location_id": 10
+  },
+  {
+    "id": "119:10",
+    "brand_id": 119,
+    "location_id": 10
+  },
+  {
+    "id": "11:2",
+    "brand_id": 11,
+    "location_id": 2
+  },
+  {
+    "id": "120:10",
+    "brand_id": 120,
+    "location_id": 10
+  },
+  {
+    "id": "121:10",
+    "brand_id": 121,
+    "location_id": 10
+  },
+  {
+    "id": "122:10",
+    "brand_id": 122,
+    "location_id": 10
+  },
+  {
+    "id": "123:10",
+    "brand_id": 123,
+    "location_id": 10
+  },
+  {
+    "id": "125:11",
+    "brand_id": 125,
+    "location_id": 11
+  },
+  {
+    "id": "126:11",
+    "brand_id": 126,
+    "location_id": 11
+  },
+  {
+    "id": "127:11",
+    "brand_id": 127,
+    "location_id": 11
+  },
+  {
+    "id": "128:11",
+    "brand_id": 128,
+    "location_id": 11
+  },
+  {
+    "id": "129:11",
+    "brand_id": 129,
+    "location_id": 11
+  },
+  {
+    "id": "12:2",
+    "brand_id": 12,
+    "location_id": 2
+  },
+  {
+    "id": "130:11",
+    "brand_id": 130,
+    "location_id": 11
+  },
+  {
+    "id": "131:11",
+    "brand_id": 131,
+    "location_id": 11
+  },
+  {
+    "id": "132:11",
+    "brand_id": 132,
+    "location_id": 11
+  },
+  {
+    "id": "133:9",
+    "brand_id": 133,
+    "location_id": 9
+  },
+  {
+    "id": "134:11",
+    "brand_id": 134,
+    "location_id": 11
+  },
+  {
+    "id": "135:11",
+    "brand_id": 135,
+    "location_id": 11
+  },
+  {
+    "id": "136:5",
+    "brand_id": 136,
+    "location_id": 5
+  },
+  {
+    "id": "137:5",
+    "brand_id": 137,
+    "location_id": 5
+  },
+  {
+    "id": "138:5",
+    "brand_id": 138,
+    "location_id": 5
+  },
+  {
+    "id": "139:5",
+    "brand_id": 139,
+    "location_id": 5
+  },
+  {
+    "id": "13:2",
+    "brand_id": 13,
+    "location_id": 2
+  },
+  {
+    "id": "140:5",
+    "brand_id": 140,
+    "location_id": 5
+  },
+  {
+    "id": "141:5",
+    "brand_id": 141,
+    "location_id": 5
+  },
+  {
+    "id": "142:5",
+    "brand_id": 142,
+    "location_id": 5
+  },
+  {
+    "id": "143:7",
+    "brand_id": 143,
+    "location_id": 7
+  },
+  {
+    "id": "144:3",
+    "brand_id": 144,
+    "location_id": 3
+  },
+  {
+    "id": "144:6",
+    "brand_id": 144,
+    "location_id": 6
+  },
+  {
+    "id": "145:6",
+    "brand_id": 145,
+    "location_id": 6
+  },
+  {
+    "id": "146:6",
+    "brand_id": 146,
+    "location_id": 6
+  },
+  {
+    "id": "147:6",
+    "brand_id": 147,
+    "location_id": 6
+  },
+  {
+    "id": "148:4",
+    "brand_id": 148,
+    "location_id": 4
+  },
+  {
+    "id": "148:6",
+    "brand_id": 148,
+    "location_id": 6
+  },
+  {
+    "id": "149:6",
+    "brand_id": 149,
+    "location_id": 6
+  },
+  {
+    "id": "150:6",
+    "brand_id": 150,
+    "location_id": 6
+  },
+  {
+    "id": "151:6",
+    "brand_id": 151,
+    "location_id": 6
+  },
+  {
+    "id": "152:6",
+    "brand_id": 152,
+    "location_id": 6
+  },
+  {
+    "id": "153:6",
+    "brand_id": 153,
+    "location_id": 6
+  },
+  {
+    "id": "154:6",
+    "brand_id": 154,
+    "location_id": 6
+  },
+  {
+    "id": "155:6",
+    "brand_id": 155,
+    "location_id": 6
+  },
+  {
+    "id": "156:4",
+    "brand_id": 156,
+    "location_id": 4
+  },
+  {
+    "id": "157:6",
+    "brand_id": 157,
+    "location_id": 6
+  },
+  {
+    "id": "158:6",
+    "brand_id": 158,
+    "location_id": 6
+  },
+  {
+    "id": "159:6",
+    "brand_id": 159,
+    "location_id": 6
+  },
+  {
+    "id": "160:6",
+    "brand_id": 160,
+    "location_id": 6
+  },
+  {
+    "id": "161:6",
+    "brand_id": 161,
+    "location_id": 6
+  },
+  {
+    "id": "163:6",
+    "brand_id": 163,
+    "location_id": 6
+  },
+  {
+    "id": "164:6",
+    "brand_id": 164,
+    "location_id": 6
+  },
+  {
+    "id": "165:7",
+    "brand_id": 165,
+    "location_id": 7
+  },
+  {
+    "id": "167:7",
+    "brand_id": 167,
+    "location_id": 7
+  },
+  {
+    "id": "168:2",
+    "brand_id": 168,
+    "location_id": 2
+  },
+  {
+    "id": "168:7",
+    "brand_id": 168,
+    "location_id": 7
+  },
+  {
+    "id": "170:7",
+    "brand_id": 170,
+    "location_id": 7
+  },
+  {
+    "id": "172:7",
+    "brand_id": 172,
+    "location_id": 7
+  },
+  {
+    "id": "173:18",
+    "brand_id": 173,
+    "location_id": 18
+  },
+  {
+    "id": "174:7",
+    "brand_id": 174,
+    "location_id": 7
+  },
+  {
+    "id": "175:7",
+    "brand_id": 175,
+    "location_id": 7
+  },
+  {
+    "id": "175:9",
+    "brand_id": 175,
+    "location_id": 9
+  },
+  {
+    "id": "176:7",
+    "brand_id": 176,
+    "location_id": 7
+  },
+  {
+    "id": "177:7",
+    "brand_id": 177,
+    "location_id": 7
+  },
+  {
+    "id": "178:7",
+    "brand_id": 178,
+    "location_id": 7
+  },
+  {
+    "id": "17:2",
+    "brand_id": 17,
+    "location_id": 2
+  },
+  {
+    "id": "180:1",
+    "brand_id": 180,
+    "location_id": 1
+  },
+  {
+    "id": "184:7",
+    "brand_id": 184,
+    "location_id": 7
+  },
+  {
+    "id": "185:7",
+    "brand_id": 185,
+    "location_id": 7
+  },
+  {
+    "id": "186:7",
+    "brand_id": 186,
+    "location_id": 7
+  },
+  {
+    "id": "187:7",
+    "brand_id": 187,
+    "location_id": 7
+  },
+  {
+    "id": "188:7",
+    "brand_id": 188,
+    "location_id": 7
+  },
+  {
+    "id": "189:7",
+    "brand_id": 189,
+    "location_id": 7
+  },
+  {
+    "id": "18:2",
+    "brand_id": 18,
+    "location_id": 2
+  },
+  {
+    "id": "190:8",
+    "brand_id": 190,
+    "location_id": 8
+  },
+  {
+    "id": "191:8",
+    "brand_id": 191,
+    "location_id": 8
+  },
+  {
+    "id": "192:8",
+    "brand_id": 192,
+    "location_id": 8
+  },
+  {
+    "id": "195:8",
+    "brand_id": 195,
+    "location_id": 8
+  },
+  {
+    "id": "196:5",
+    "brand_id": 196,
+    "location_id": 5
+  },
+  {
+    "id": "197:8",
+    "brand_id": 197,
+    "location_id": 8
+  },
+  {
+    "id": "198:8",
+    "brand_id": 198,
+    "location_id": 8
+  },
+  {
+    "id": "199:8",
+    "brand_id": 199,
+    "location_id": 8
+  },
+  {
+    "id": "19:2",
+    "brand_id": 19,
+    "location_id": 2
+  },
+  {
+    "id": "200:8",
+    "brand_id": 200,
+    "location_id": 8
+  },
+  {
+    "id": "201:8",
+    "brand_id": 201,
+    "location_id": 8
+  },
+  {
+    "id": "202:8",
+    "brand_id": 202,
+    "location_id": 8
+  },
+  {
+    "id": "203:8",
+    "brand_id": 203,
+    "location_id": 8
+  },
+  {
+    "id": "204:8",
+    "brand_id": 204,
+    "location_id": 8
+  },
+  {
+    "id": "205:9",
+    "brand_id": 205,
+    "location_id": 9
+  },
+  {
+    "id": "206:9",
+    "brand_id": 206,
+    "location_id": 9
+  },
+  {
+    "id": "207:8",
+    "brand_id": 207,
+    "location_id": 8
+  },
+  {
+    "id": "209:12",
+    "brand_id": 209,
+    "location_id": 12
+  },
+  {
+    "id": "20:2",
+    "brand_id": 20,
+    "location_id": 2
+  },
+  {
+    "id": "211:12",
+    "brand_id": 211,
+    "location_id": 12
+  },
+  {
+    "id": "213:12",
+    "brand_id": 213,
+    "location_id": 12
+  },
+  {
+    "id": "214:12",
+    "brand_id": 214,
+    "location_id": 12
+  },
+  {
+    "id": "215:12",
+    "brand_id": 215,
+    "location_id": 12
+  },
+  {
+    "id": "216:12",
+    "brand_id": 216,
+    "location_id": 12
+  },
+  {
+    "id": "218:12",
+    "brand_id": 218,
+    "location_id": 12
+  },
+  {
+    "id": "219:2",
+    "brand_id": 219,
+    "location_id": 2
+  },
+  {
+    "id": "21:10",
+    "brand_id": 21,
+    "location_id": 10
+  },
+  {
+    "id": "21:2",
+    "brand_id": 21,
+    "location_id": 2
+  },
+  {
+    "id": "21:7",
+    "brand_id": 21,
+    "location_id": 7
+  },
+  {
+    "id": "220:19",
+    "brand_id": 220,
+    "location_id": 19
+  },
+  {
+    "id": "221:1",
+    "brand_id": 221,
+    "location_id": 1
+  },
+  {
+    "id": "222:19",
+    "brand_id": 222,
+    "location_id": 19
+  },
+  {
+    "id": "223:13",
+    "brand_id": 223,
+    "location_id": 13
+  },
+  {
+    "id": "224:3",
+    "brand_id": 224,
+    "location_id": 3
+  },
+  {
+    "id": "226:7",
+    "brand_id": 226,
+    "location_id": 7
+  },
+  {
+    "id": "227:17",
+    "brand_id": 227,
+    "location_id": 17
+  },
+  {
+    "id": "228:14",
+    "brand_id": 228,
+    "location_id": 14
+  },
+  {
+    "id": "229:3",
+    "brand_id": 229,
+    "location_id": 3
+  },
+  {
+    "id": "22:2",
+    "brand_id": 22,
+    "location_id": 2
+  },
+  {
+    "id": "230:7",
+    "brand_id": 230,
+    "location_id": 7
+  },
+  {
+    "id": "231:9",
+    "brand_id": 231,
+    "location_id": 9
+  },
+  {
+    "id": "232:9",
+    "brand_id": 232,
+    "location_id": 9
+  },
+  {
+    "id": "234:1",
+    "brand_id": 234,
+    "location_id": 1
+  },
+  {
+    "id": "235:2",
+    "brand_id": 235,
+    "location_id": 2
+  },
+  {
+    "id": "236:6",
+    "brand_id": 236,
+    "location_id": 6
+  },
+  {
+    "id": "237:5",
+    "brand_id": 237,
+    "location_id": 5
+  },
+  {
+    "id": "238:1",
+    "brand_id": 238,
+    "location_id": 1
+  },
+  {
+    "id": "239:9",
+    "brand_id": 239,
+    "location_id": 9
+  },
+  {
+    "id": "23:2",
+    "brand_id": 23,
+    "location_id": 2
+  },
+  {
+    "id": "240:10",
+    "brand_id": 240,
+    "location_id": 10
+  },
+  {
+    "id": "241:8",
+    "brand_id": 241,
+    "location_id": 8
+  },
+  {
+    "id": "243:6",
+    "brand_id": 243,
+    "location_id": 6
+  },
+  {
+    "id": "246:5",
+    "brand_id": 246,
+    "location_id": 5
+  },
+  {
+    "id": "247:1",
+    "brand_id": 247,
+    "location_id": 1
+  },
+  {
+    "id": "248:9",
+    "brand_id": 248,
+    "location_id": 9
+  },
+  {
+    "id": "24:3",
+    "brand_id": 24,
+    "location_id": 3
+  },
+  {
+    "id": "250:18",
+    "brand_id": 250,
+    "location_id": 18
+  },
+  {
+    "id": "251:12",
+    "brand_id": 251,
+    "location_id": 12
+  },
+  {
+    "id": "252:12",
+    "brand_id": 252,
+    "location_id": 12
+  },
+  {
+    "id": "253:6",
+    "brand_id": 253,
+    "location_id": 6
+  },
+  {
+    "id": "254:9",
+    "brand_id": 254,
+    "location_id": 9
+  },
+  {
+    "id": "255:11",
+    "brand_id": 255,
+    "location_id": 11
+  },
+  {
+    "id": "257:1",
+    "brand_id": 257,
+    "location_id": 1
+  },
+  {
+    "id": "258:12",
+    "brand_id": 258,
+    "location_id": 12
+  },
+  {
+    "id": "25:18",
+    "brand_id": 25,
+    "location_id": 18
+  },
+  {
+    "id": "260:1",
+    "brand_id": 260,
+    "location_id": 1
+  },
+  {
+    "id": "261:18",
+    "brand_id": 261,
+    "location_id": 18
+  },
+  {
+    "id": "262:12",
+    "brand_id": 262,
+    "location_id": 12
+  },
+  {
+    "id": "264:1",
+    "brand_id": 264,
+    "location_id": 1
+  },
+  {
+    "id": "26:18",
+    "brand_id": 26,
+    "location_id": 18
+  },
+  {
+    "id": "275:3",
+    "brand_id": 275,
+    "location_id": 3
+  },
+  {
+    "id": "276:15",
+    "brand_id": 276,
+    "location_id": 15
+  },
+  {
+    "id": "27:3",
+    "brand_id": 27,
+    "location_id": 3
+  },
+  {
+    "id": "286:8",
+    "brand_id": 286,
+    "location_id": 8
+  },
+  {
+    "id": "287:8",
+    "brand_id": 287,
+    "location_id": 8
+  },
+  {
+    "id": "289:1",
+    "brand_id": 289,
+    "location_id": 1
+  },
+  {
+    "id": "28:3",
+    "brand_id": 28,
+    "location_id": 3
+  },
+  {
+    "id": "291:9",
+    "brand_id": 291,
+    "location_id": 9
+  },
+  {
+    "id": "296:7",
+    "brand_id": 296,
+    "location_id": 7
+  },
+  {
+    "id": "297:1",
+    "brand_id": 297,
+    "location_id": 1
+  },
+  {
+    "id": "29:3",
+    "brand_id": 29,
+    "location_id": 3
+  },
+  {
+    "id": "2:1",
+    "brand_id": 2,
+    "location_id": 1
+  },
+  {
+    "id": "301:15",
+    "brand_id": 301,
+    "location_id": 15
+  },
+  {
+    "id": "302:15",
+    "brand_id": 302,
+    "location_id": 15
+  },
+  {
+    "id": "303:15",
+    "brand_id": 303,
+    "location_id": 15
+  },
+  {
+    "id": "304:6",
+    "brand_id": 304,
+    "location_id": 6
+  },
+  {
+    "id": "305:14",
+    "brand_id": 305,
+    "location_id": 14
+  },
+  {
+    "id": "307:15",
+    "brand_id": 307,
+    "location_id": 15
+  },
+  {
+    "id": "308:15",
+    "brand_id": 308,
+    "location_id": 15
+  },
+  {
+    "id": "30:3",
+    "brand_id": 30,
+    "location_id": 3
+  },
+  {
+    "id": "311:1",
+    "brand_id": 311,
+    "location_id": 1
+  },
+  {
+    "id": "312:8",
+    "brand_id": 312,
+    "location_id": 8
+  },
+  {
+    "id": "313:10",
+    "brand_id": 313,
+    "location_id": 10
+  },
+  {
+    "id": "314:5",
+    "brand_id": 314,
+    "location_id": 5
+  },
+  {
+    "id": "315:10",
+    "brand_id": 315,
+    "location_id": 10
+  },
+  {
+    "id": "316:5",
+    "brand_id": 316,
+    "location_id": 5
+  },
+  {
+    "id": "317:3",
+    "brand_id": 317,
+    "location_id": 3
+  },
+  {
+    "id": "318:7",
+    "brand_id": 318,
+    "location_id": 7
+  },
+  {
+    "id": "31:3",
+    "brand_id": 31,
+    "location_id": 3
+  },
+  {
+    "id": "320:4",
+    "brand_id": 320,
+    "location_id": 4
+  },
+  {
+    "id": "321:15",
+    "brand_id": 321,
+    "location_id": 15
+  },
+  {
+    "id": "322:12",
+    "brand_id": 322,
+    "location_id": 12
+  },
+  {
+    "id": "323:1",
+    "brand_id": 323,
+    "location_id": 1
+  },
+  {
+    "id": "325:7",
+    "brand_id": 325,
+    "location_id": 7
+  },
+  {
+    "id": "328:15",
+    "brand_id": 328,
+    "location_id": 15
+  },
+  {
+    "id": "329:19",
+    "brand_id": 329,
+    "location_id": 19
+  },
+  {
+    "id": "32:3",
+    "brand_id": 32,
+    "location_id": 3
+  },
+  {
+    "id": "330:18",
+    "brand_id": 330,
+    "location_id": 18
+  },
+  {
+    "id": "331:7",
+    "brand_id": 331,
+    "location_id": 7
+  },
+  {
+    "id": "332:7",
+    "brand_id": 332,
+    "location_id": 7
+  },
+  {
+    "id": "333:4",
+    "brand_id": 333,
+    "location_id": 4
+  },
+  {
+    "id": "334:3",
+    "brand_id": 334,
+    "location_id": 3
+  },
+  {
+    "id": "336:1",
+    "brand_id": 336,
+    "location_id": 1
+  },
+  {
+    "id": "337:3",
+    "brand_id": 337,
+    "location_id": 3
+  },
+  {
+    "id": "338:1",
+    "brand_id": 338,
+    "location_id": 1
+  },
+  {
+    "id": "339:2",
+    "brand_id": 339,
+    "location_id": 2
+  },
+  {
+    "id": "33:3",
+    "brand_id": 33,
+    "location_id": 3
+  },
+  {
+    "id": "340:16",
+    "brand_id": 340,
+    "location_id": 16
+  },
+  {
+    "id": "341:5",
+    "brand_id": 341,
+    "location_id": 5
+  },
+  {
+    "id": "342:19",
+    "brand_id": 342,
+    "location_id": 19
+  },
+  {
+    "id": "343:11",
+    "brand_id": 343,
+    "location_id": 11
+  },
+  {
+    "id": "346:9",
+    "brand_id": 346,
+    "location_id": 9
+  },
+  {
+    "id": "347:7",
+    "brand_id": 347,
+    "location_id": 7
+  },
+  {
+    "id": "348:4",
+    "brand_id": 348,
+    "location_id": 4
+  },
+  {
+    "id": "349:15",
+    "brand_id": 349,
+    "location_id": 15
+  },
+  {
+    "id": "34:3",
+    "brand_id": 34,
+    "location_id": 3
+  },
+  {
+    "id": "350:9",
+    "brand_id": 350,
+    "location_id": 9
+  },
+  {
+    "id": "351:4",
+    "brand_id": 351,
+    "location_id": 4
+  },
+  {
+    "id": "352:2",
+    "brand_id": 352,
+    "location_id": 2
+  },
+  {
+    "id": "353:9",
+    "brand_id": 353,
+    "location_id": 9
+  },
+  {
+    "id": "356:15",
+    "brand_id": 356,
+    "location_id": 15
+  },
+  {
+    "id": "358:6",
+    "brand_id": 358,
+    "location_id": 6
+  },
+  {
+    "id": "359:8",
+    "brand_id": 359,
+    "location_id": 8
+  },
+  {
+    "id": "35:3",
+    "brand_id": 35,
+    "location_id": 3
+  },
+  {
+    "id": "360:7",
+    "brand_id": 360,
+    "location_id": 7
+  },
+  {
+    "id": "361:2",
+    "brand_id": 361,
+    "location_id": 2
+  },
+  {
+    "id": "362:1",
+    "brand_id": 362,
+    "location_id": 1
+  },
+  {
+    "id": "363:10",
+    "brand_id": 363,
+    "location_id": 10
+  },
+  {
+    "id": "365:6",
+    "brand_id": 365,
+    "location_id": 6
+  },
+  {
+    "id": "366:11",
+    "brand_id": 366,
+    "location_id": 11
+  },
+  {
+    "id": "368:2",
+    "brand_id": 368,
+    "location_id": 2
+  },
+  {
+    "id": "369:7",
+    "brand_id": 369,
+    "location_id": 7
+  },
+  {
+    "id": "36:3",
+    "brand_id": 36,
+    "location_id": 3
+  },
+  {
+    "id": "370:2",
+    "brand_id": 370,
+    "location_id": 2
+  },
+  {
+    "id": "371:7",
+    "brand_id": 371,
+    "location_id": 7
+  },
+  {
+    "id": "372:11",
+    "brand_id": 372,
+    "location_id": 11
+  },
+  {
+    "id": "373:10",
+    "brand_id": 373,
+    "location_id": 10
+  },
+  {
+    "id": "374:1",
+    "brand_id": 374,
+    "location_id": 1
+  },
+  {
+    "id": "375:6",
+    "brand_id": 375,
+    "location_id": 6
+  },
+  {
+    "id": "376:12",
+    "brand_id": 376,
+    "location_id": 12
+  },
+  {
+    "id": "376:8",
+    "brand_id": 376,
+    "location_id": 8
+  },
+  {
+    "id": "377:9",
+    "brand_id": 377,
+    "location_id": 9
+  },
+  {
+    "id": "378:6",
+    "brand_id": 378,
+    "location_id": 6
+  },
+  {
+    "id": "379:6",
+    "brand_id": 379,
+    "location_id": 6
+  },
+  {
+    "id": "37:3",
+    "brand_id": 37,
+    "location_id": 3
+  },
+  {
+    "id": "380:7",
+    "brand_id": 380,
+    "location_id": 7
+  },
+  {
+    "id": "381:1",
+    "brand_id": 381,
+    "location_id": 1
+  },
+  {
+    "id": "382:3",
+    "brand_id": 382,
+    "location_id": 3
+  },
+  {
+    "id": "383:7",
+    "brand_id": 383,
+    "location_id": 7
+  },
+  {
+    "id": "384:11",
+    "brand_id": 384,
+    "location_id": 11
+  },
+  {
+    "id": "385:9",
+    "brand_id": 385,
+    "location_id": 9
+  },
+  {
+    "id": "386:7",
+    "brand_id": 386,
+    "location_id": 7
+  },
+  {
+    "id": "387:7",
+    "brand_id": 387,
+    "location_id": 7
+  },
+  {
+    "id": "388:19",
+    "brand_id": 388,
+    "location_id": 19
+  },
+  {
+    "id": "389:8",
+    "brand_id": 389,
+    "location_id": 8
+  },
+  {
+    "id": "38:9",
+    "brand_id": 38,
+    "location_id": 9
+  },
+  {
+    "id": "390:8",
+    "brand_id": 390,
+    "location_id": 8
+  },
+  {
+    "id": "392:19",
+    "brand_id": 392,
+    "location_id": 19
+  },
+  {
+    "id": "393:1",
+    "brand_id": 393,
+    "location_id": 1
+  },
+  {
+    "id": "394:3",
+    "brand_id": 394,
+    "location_id": 3
+  },
+  {
+    "id": "395:8",
+    "brand_id": 395,
+    "location_id": 8
+  },
+  {
+    "id": "396:7",
+    "brand_id": 396,
+    "location_id": 7
+  },
+  {
+    "id": "397:7",
+    "brand_id": 397,
+    "location_id": 7
+  },
+  {
+    "id": "398:7",
+    "brand_id": 398,
+    "location_id": 7
+  },
+  {
+    "id": "39:3",
+    "brand_id": 39,
+    "location_id": 3
+  },
+  {
+    "id": "3:1",
+    "brand_id": 3,
+    "location_id": 1
+  },
+  {
+    "id": "400:3",
+    "brand_id": 400,
+    "location_id": 3
+  },
+  {
+    "id": "401:7",
+    "brand_id": 401,
+    "location_id": 7
+  },
+  {
+    "id": "402:7",
+    "brand_id": 402,
+    "location_id": 7
+  },
+  {
+    "id": "40:19",
+    "brand_id": 40,
+    "location_id": 19
+  },
+  {
+    "id": "41:3",
+    "brand_id": 41,
+    "location_id": 3
+  },
+  {
+    "id": "42:18",
+    "brand_id": 42,
+    "location_id": 18
+  },
+  {
+    "id": "43:18",
+    "brand_id": 43,
+    "location_id": 18
+  },
+  {
+    "id": "44:3",
+    "brand_id": 44,
+    "location_id": 3
+  },
+  {
+    "id": "45:3",
+    "brand_id": 45,
+    "location_id": 3
+  },
+  {
+    "id": "46:3",
+    "brand_id": 46,
+    "location_id": 3
+  },
+  {
+    "id": "47:18",
+    "brand_id": 47,
+    "location_id": 18
+  },
+  {
+    "id": "48:3",
+    "brand_id": 48,
+    "location_id": 3
+  },
+  {
+    "id": "49:18",
+    "brand_id": 49,
+    "location_id": 18
+  },
+  {
+    "id": "4:1",
+    "brand_id": 4,
+    "location_id": 1
+  },
+  {
+    "id": "50:18",
+    "brand_id": 50,
+    "location_id": 18
+  },
+  {
+    "id": "51:18",
+    "brand_id": 51,
+    "location_id": 18
+  },
+  {
+    "id": "52:18",
+    "brand_id": 52,
+    "location_id": 18
+  },
+  {
+    "id": "53:18",
+    "brand_id": 53,
+    "location_id": 18
+  },
+  {
+    "id": "54:3",
+    "brand_id": 54,
+    "location_id": 3
+  },
+  {
+    "id": "55:3",
+    "brand_id": 55,
+    "location_id": 3
+  },
+  {
+    "id": "56:3",
+    "brand_id": 56,
+    "location_id": 3
+  },
+  {
+    "id": "57:3",
+    "brand_id": 57,
+    "location_id": 3
+  },
+  {
+    "id": "58:18",
+    "brand_id": 58,
+    "location_id": 18
+  },
+  {
+    "id": "59:3",
+    "brand_id": 59,
+    "location_id": 3
+  },
+  {
+    "id": "5:2",
+    "brand_id": 5,
+    "location_id": 2
+  },
+  {
+    "id": "60:3",
+    "brand_id": 60,
+    "location_id": 3
+  },
+  {
+    "id": "61:18",
+    "brand_id": 61,
+    "location_id": 18
+  },
+  {
+    "id": "62:3",
+    "brand_id": 62,
+    "location_id": 3
+  },
+  {
+    "id": "63:18",
+    "brand_id": 63,
+    "location_id": 18
+  },
+  {
+    "id": "64:3",
+    "brand_id": 64,
+    "location_id": 3
+  },
+  {
+    "id": "65:18",
+    "brand_id": 65,
+    "location_id": 18
+  },
+  {
+    "id": "66:9",
+    "brand_id": 66,
+    "location_id": 9
+  },
+  {
+    "id": "67:3",
+    "brand_id": 67,
+    "location_id": 3
+  },
+  {
+    "id": "68:3",
+    "brand_id": 68,
+    "location_id": 3
+  },
+  {
+    "id": "69:3",
+    "brand_id": 69,
+    "location_id": 3
+  },
+  {
+    "id": "6:2",
+    "brand_id": 6,
+    "location_id": 2
+  },
+  {
+    "id": "71:18",
+    "brand_id": 71,
+    "location_id": 18
+  },
+  {
+    "id": "72:3",
+    "brand_id": 72,
+    "location_id": 3
+  },
+  {
+    "id": "73:3",
+    "brand_id": 73,
+    "location_id": 3
+  },
+  {
+    "id": "74:3",
+    "brand_id": 74,
+    "location_id": 3
+  },
+  {
+    "id": "75:10",
+    "brand_id": 75,
+    "location_id": 10
+  },
+  {
+    "id": "76:19",
+    "brand_id": 76,
+    "location_id": 19
+  },
+  {
+    "id": "77:10",
+    "brand_id": 77,
+    "location_id": 10
+  },
+  {
+    "id": "78:4",
+    "brand_id": 78,
+    "location_id": 4
+  },
+  {
+    "id": "79:4",
+    "brand_id": 79,
+    "location_id": 4
+  },
+  {
+    "id": "80:4",
+    "brand_id": 80,
+    "location_id": 4
+  },
+  {
+    "id": "81:4",
+    "brand_id": 81,
+    "location_id": 4
+  },
+  {
+    "id": "82:19",
+    "brand_id": 82,
+    "location_id": 19
+  },
+  {
+    "id": "83:10",
+    "brand_id": 83,
+    "location_id": 10
+  },
+  {
+    "id": "84:19",
+    "brand_id": 84,
+    "location_id": 19
+  },
+  {
+    "id": "85:4",
+    "brand_id": 85,
+    "location_id": 4
+  },
+  {
+    "id": "86:4",
+    "brand_id": 86,
+    "location_id": 4
+  },
+  {
+    "id": "87:4",
+    "brand_id": 87,
+    "location_id": 4
+  },
+  {
+    "id": "88:4",
+    "brand_id": 88,
+    "location_id": 4
+  },
+  {
+    "id": "8:2",
+    "brand_id": 8,
+    "location_id": 2
+  },
+  {
+    "id": "91:4",
+    "brand_id": 91,
+    "location_id": 4
+  },
+  {
+    "id": "92:19",
+    "brand_id": 92,
+    "location_id": 19
+  },
+  {
+    "id": "94:4",
+    "brand_id": 94,
+    "location_id": 4
+  },
+  {
+    "id": "95:4",
+    "brand_id": 95,
+    "location_id": 4
+  },
+  {
+    "id": "96:19",
+    "brand_id": 96,
+    "location_id": 19
+  },
+  {
+    "id": "97:4",
+    "brand_id": 97,
+    "location_id": 4
+  },
+  {
+    "id": "98:4",
+    "brand_id": 98,
+    "location_id": 4
+  },
+  {
+    "id": "99:4",
+    "brand_id": 99,
+    "location_id": 4
+  },
+  {
+    "id": "9:2",
+    "brand_id": 9,
+    "location_id": 2
+  }
+]

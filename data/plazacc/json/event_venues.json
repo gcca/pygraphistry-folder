@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0955672a359bd1d492320d8c46bb429e4071383bc2e2c5fd1e67dd8d3a306bf5",
+    "name": "Plaza Central, 1er nivel",
+    "display_name": "Plaza Central, 1er nivel",
+    "external_id": "LOC-7Y9SQ6U1",
+    "location_id": 18
+  },
+  {
+    "id": "69b03420471e3a2cad107b735c444aec22e7824e926d59eeef55e3516aecd726",
+    "name": "corredor mantaro SOLE",
+    "display_name": "Corredor Mantaro, 2do nivel frente a Sole",
+    "external_id": "LOC-7Y9SQ6U1",
+    "location_id": null
+  },
+  {
+    "id": "b89d440729388edcec6fbf277bab91f6a72c53571c494f4c03edc9e199462ec0",
+    "name": "frente a wong 2do nivel",
+    "display_name": "Terraza Universitaria, 2do nivel",
+    "external_id": "LOC-7Y9SQ6U1",
+    "location_id": null
+  },
+  {
+    "id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc",
+    "name": "Rotonda Riva Agüero frente a Superpet",
+    "display_name": "Rotonda Riva Agüero frente a Superpet",
+    "external_id": null,
+    "location_id": null
+  },
+  {
+    "id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0",
+    "name": "Plaza Comidas, 3er nivel",
+    "display_name": "Plaza Comidas, 3er nivel",
+    "external_id": "LOC-XJOMU21I",
+    "location_id": null
+  },
+  {
+    "id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350",
+    "name": "Rotonda Boulevard Mantaro",
+    "display_name": "Rotonda Boulevard Mantaro",
+    "external_id": "LOC-VSC4X6AH",
+    "location_id": null
+  }
+]

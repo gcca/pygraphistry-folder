@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Alameda La Marina, 1er nivel"
+  },
+  {
+    "id": 2,
+    "name": "Boulevard Plaza Mantaro, 1er nivel"
+  },
+  {
+    "id": 3,
+    "name": "Corredor Mantaro, 1er nivel"
+  },
+  {
+    "id": 4,
+    "name": "Corredor Mantaro, 2do nivel"
+  },
+  {
+    "id": 5,
+    "name": "Plaza a la Carta, 2do nivel"
+  },
+  {
+    "id": 6,
+    "name": "Torre de Tiendas Riva Agüero, 1er nivel"
+  },
+  {
+    "id": 7,
+    "name": "Torre de Tiendas Riva Agüero, 2do nivel"
+  },
+  {
+    "id": 8,
+    "name": "Torre de Tiendas Riva Agüero, 3er nivel"
+  },
+  {
+    "id": 9,
+    "name": "Corredor Universitaria, 1er nivel"
+  },
+  {
+    "id": 10,
+    "name": "Corredor Universitaria, 2do nivel"
+  },
+  {
+    "id": 11,
+    "name": "Corredor Universitaria, 3er nivel"
+  },
+  {
+    "id": 12,
+    "name": "Plaza Financiera, 3er nivel"
+  },
+  {
+    "id": 13,
+    "name": "Universitaria, 5to nivel"
+  },
+  {
+    "id": 14,
+    "name": "Universitaria, 4to nivel"
+  },
+  {
+    "id": 15,
+    "name": "Zona Express, sótano 1"
+  },
+  {
+    "id": 16,
+    "name": "Alameda la Marina, 2do nivel"
+  },
+  {
+    "id": 17,
+    "name": "Torre de tiendas Riva Agüero, 4to nivel"
+  },
+  {
+    "id": 18,
+    "name": "Plaza central, 1er nivel"
+  },
+  {
+    "id": 19,
+    "name": "Plaza central, 2do nivel"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": 988,
+    "title": "Kpop Dance",
+    "description": "Coreografías y dinámicas de baile Kpop con el público.",
+    "start_time": "2026-11-13T23:30:00Z",
+    "end_time": "2026-11-14T01:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/13_kpop.jpg",
+    "category_id": 1,
+    "venue_id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350"
+  },
+  {
+    "id": 989,
+    "title": "DJ + Violín Afro Melodic",
+    "description": null,
+    "start_time": "2026-11-14T00:00:00Z",
+    "end_time": "2026-11-14T02:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-13_1900.jpg",
+    "category_id": 5,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 990,
+    "title": "Música en vivo: Rock en español",
+    "description": "Banda en vivo con clásicos del rock en español.",
+    "start_time": "2026-11-14T00:00:00Z",
+    "end_time": "2026-11-14T02:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/13_rock.jpg",
+    "category_id": 5,
+    "venue_id": "0955672a359bd1d492320d8c46bb429e4071383bc2e2c5fd1e67dd8d3a306bf5"
+  },
+  {
+    "id": 991,
+    "title": "DJ + Percusión Afro Melódico",
+    "description": null,
+    "start_time": "2026-11-14T18:30:00Z",
+    "end_time": "2026-11-14T20:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-14_1330.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 992,
+    "title": "Comparsa Alicia en el país de las maravillas",
+    "description": "Sombrereros, naipes gigantes y personajes de fantasía.",
+    "start_time": "2026-11-14T22:00:00Z",
+    "end_time": "2026-11-14T23:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/14_alicia.jpg",
+    "category_id": 2,
+    "venue_id": null
+  },
+  {
+    "id": 993,
+    "title": "Ritmos de siempre",
+    "description": "Música y baile de éxitos clásicos para adultos mayores.",
+    "start_time": "2026-11-14T23:00:00Z",
+    "end_time": "2026-11-15T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/14_ritmos.jpg",
+    "category_id": 4,
+    "venue_id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350"
+  },
+  {
+    "id": 994,
+    "title": "DJ + Percusión Perú es Clave",
+    "description": null,
+    "start_time": "2026-11-15T18:30:00Z",
+    "end_time": "2026-11-15T20:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-15_1330.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 995,
+    "title": "Show El gran espectáculo circense",
+    "description": "Malabares, hula hoops, equilibrio y acrobacias con humor y participación del público.",
+    "start_time": "2026-11-15T21:00:00Z",
+    "end_time": "2026-11-15T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/15_show_circo.jpg",
+    "category_id": 2,
+    "venue_id": "0955672a359bd1d492320d8c46bb429e4071383bc2e2c5fd1e67dd8d3a306bf5"
+  },
+  {
+    "id": 996,
+    "title": "Comparsa Safari en Plaza",
+    "description": "Comparsa con animalitos (referencia: Parque de las Leyendas).",
+    "start_time": "2026-11-15T22:00:00Z",
+    "end_time": "2026-11-15T23:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/15_safari.jpg",
+    "category_id": 5,
+    "venue_id": null
+  },
+  {
+    "id": 999,
+    "title": "DJ + Percusión Salsa hits",
+    "description": null,
+    "start_time": "2026-11-17T23:00:00Z",
+    "end_time": "2026-11-18T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-17_1800.jpg",
+    "category_id": 5,
+    "venue_id": "69b03420471e3a2cad107b735c444aec22e7824e926d59eeef55e3516aecd726"
+  },
+  {
+    "id": 1000,
+    "title": "DJ + Percusión Sounds of cinema",
+    "description": null,
+    "start_time": "2026-11-18T23:30:00Z",
+    "end_time": "2026-11-19T01:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-18_1830.jpg",
+    "category_id": 5,
+    "venue_id": "b89d440729388edcec6fbf277bab91f6a72c53571c494f4c03edc9e199462ec0"
+  },
+  {
+    "id": 1001,
+    "title": "Kpop Dance",
+    "description": "Coreografías y dinámicas de baile Kpop con el público.",
+    "start_time": "2026-11-19T23:00:00Z",
+    "end_time": "2026-11-20T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/19_kpop.jpg",
+    "category_id": 1,
+    "venue_id": "b89d440729388edcec6fbf277bab91f6a72c53571c494f4c03edc9e199462ec0"
+  },
+  {
+    "id": 1002,
+    "title": "DJ + Saxofón Anglo en todos los géneros",
+    "description": null,
+    "start_time": "2026-11-20T00:00:00Z",
+    "end_time": "2026-11-20T02:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-19_1900.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1003,
+    "title": "Kpop Dance",
+    "description": "Coreografías y dinámicas de baile Kpop con el público.",
+    "start_time": "2026-11-20T23:30:00Z",
+    "end_time": "2026-11-21T01:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/20_kpop.jpg",
+    "category_id": 1,
+    "venue_id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350"
+  },
+  {
+    "id": 1004,
+    "title": "DJ + Saxofón Medio Oriente Melódico",
+    "description": null,
+    "start_time": "2026-11-21T18:30:00Z",
+    "end_time": "2026-11-21T20:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-21_1330.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1005,
+    "title": "Taller de dibujo en caballetes",
+    "description": "Dibujo en caballete con materiales para los niños.",
+    "start_time": "2026-11-21T21:00:00Z",
+    "end_time": "2026-11-21T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-21_taller.jpg",
+    "category_id": 2,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1007,
+    "title": "Ritmos de siempre",
+    "description": "Música y baile de éxitos clásicos para adultos mayores.",
+    "start_time": "2026-11-21T23:00:00Z",
+    "end_time": "2026-11-22T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/21_ritmos.jpg",
+    "category_id": 4,
+    "venue_id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350"
+  },
+  {
+    "id": 1008,
+    "title": "DJ + Percusión Experiencia DeUMAR",
+    "description": null,
+    "start_time": "2026-11-22T18:30:00Z",
+    "end_time": "2026-11-22T20:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-22_1330.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1009,
+    "title": "Taller de galletas divertidas",
+    "description": "Decoración de galletas divertidas.",
+    "start_time": "2026-11-22T21:00:00Z",
+    "end_time": "2026-11-22T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-22_taller.jpg",
+    "category_id": 2,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1010,
+    "title": "Comparsa Candy Christmas",
+    "description": "Galletas de jengibre, bastones de caramelo y personajes de dulcería navideña.",
+    "start_time": "2026-11-22T22:00:00Z",
+    "end_time": "2026-11-22T23:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/22_candy.jpg",
+    "category_id": 5,
+    "venue_id": null
+  },
+  {
+    "id": 1011,
+    "title": "DJ + Percusión Saxo sunset",
+    "description": null,
+    "start_time": "2026-11-24T23:00:00Z",
+    "end_time": "2026-11-25T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-24_1800.jpg",
+    "category_id": 5,
+    "venue_id": "69b03420471e3a2cad107b735c444aec22e7824e926d59eeef55e3516aecd726"
+  },
+  {
+    "id": 1012,
+    "title": "DJ + Violín Medio Oriente Orgánico",
+    "description": null,
+    "start_time": "2026-11-25T23:30:00Z",
+    "end_time": "2026-11-26T01:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-25_1830.jpg",
+    "category_id": 5,
+    "venue_id": "b89d440729388edcec6fbf277bab91f6a72c53571c494f4c03edc9e199462ec0"
+  },
+  {
+    "id": 1013,
+    "title": "Taller de acuarelas y arte relajante",
+    "description": "Pintura de flores, paisajes y tarjetas decorativas.",
+    "start_time": "2026-11-26T21:00:00Z",
+    "end_time": "2026-11-26T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-26_taller.jpg",
+    "category_id": 4,
+    "venue_id": "0955672a359bd1d492320d8c46bb429e4071383bc2e2c5fd1e67dd8d3a306bf5"
+  },
+  {
+    "id": 1015,
+    "title": "DJ + Saxo musica disco",
+    "description": null,
+    "start_time": "2026-11-26T23:00:00Z",
+    "end_time": "2026-11-27T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-26_1800.jpg",
+    "category_id": 5,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1016,
+    "title": "Kpop Dance",
+    "description": "Coreografías y dinámicas de baile Kpop con el público.",
+    "start_time": "2026-11-26T23:00:00Z",
+    "end_time": "2026-11-27T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/26_kpop.jpg",
+    "category_id": 1,
+    "venue_id": "b89d440729388edcec6fbf277bab91f6a72c53571c494f4c03edc9e199462ec0"
+  },
+  {
+    "id": 1017,
+    "title": "Kpop Dance",
+    "description": "Coreografías y dinámicas de baile Kpop con el público.",
+    "start_time": "2026-11-27T23:30:00Z",
+    "end_time": "2026-11-28T01:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/27_kpop.jpg",
+    "category_id": 1,
+    "venue_id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350"
+  },
+  {
+    "id": 1018,
+    "title": "DJ + Saxofón Afro Latino",
+    "description": null,
+    "start_time": "2026-11-28T18:30:00Z",
+    "end_time": "2026-11-28T20:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-28_1330.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1019,
+    "title": "Comparsa Navidad de Fantasía",
+    "description": "Zanquistas, estrellas, muñeco de nieve; vestuarios blanco con dorado.",
+    "start_time": "2026-11-28T22:00:00Z",
+    "end_time": "2026-11-28T23:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/28_navidad.jpg",
+    "category_id": 5,
+    "venue_id": null
+  },
+  {
+    "id": 1020,
+    "title": "DJ + Saxofón Afro Caribe",
+    "description": null,
+    "start_time": "2026-11-28T23:00:00Z",
+    "end_time": "2026-11-29T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-28_1800.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1021,
+    "title": "Ritmos de siempre",
+    "description": "Música y baile de éxitos clásicos para adultos mayores.",
+    "start_time": "2026-11-28T23:00:00Z",
+    "end_time": "2026-11-29T01:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/28_ritmos.jpg",
+    "category_id": 4,
+    "venue_id": "f4457766cded112cdba0f3d11415e6c00d845d8bc0bb885a772a29b142608350"
+  },
+  {
+    "id": 1022,
+    "title": "DJ + Percusión Afro House",
+    "description": null,
+    "start_time": "2026-11-29T18:30:00Z",
+    "end_time": "2026-11-29T20:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-29_1330.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1024,
+    "title": "Taller de arte floral y decoración",
+    "description": "Arreglos florales y adornos para el hogar.",
+    "start_time": "2026-11-20T21:00:00Z",
+    "end_time": "2026-11-20T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-20_taller.jpg",
+    "category_id": 4,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1025,
+    "title": "DJ + Violín 80s & 90s Español e Inglés",
+    "description": null,
+    "start_time": "2026-11-21T00:00:00Z",
+    "end_time": "2026-11-21T02:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-20_1900.jpg",
+    "category_id": 5,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1026,
+    "title": "Taller de coronas de adviento o centros de mesa",
+    "description": "Coronas de adviento o centros de mesa navideños.",
+    "start_time": "2026-11-27T21:00:00Z",
+    "end_time": "2026-11-27T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-27_taller.jpg",
+    "category_id": 4,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1027,
+    "title": "DJ + Violín 80s & 90s Español e Inglés",
+    "description": null,
+    "start_time": "2026-11-28T00:00:00Z",
+    "end_time": "2026-11-28T02:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-27_1900.jpg",
+    "category_id": 5,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1028,
+    "title": "Taller de productos con material reciclable",
+    "description": "Manualidades con material reciclable.",
+    "start_time": "2026-11-29T21:00:00Z",
+    "end_time": "2026-11-29T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-29_taller.jpg",
+    "category_id": 4,
+    "venue_id": "bda049b8ab32b2d3d3360a7d4bf6d4899efa558b4bc54f0a5c980b13f1cc7bdc"
+  },
+  {
+    "id": 1029,
+    "title": "DJ + Percusión Atemporal",
+    "description": null,
+    "start_time": "2026-11-15T23:30:00Z",
+    "end_time": "2026-11-16T01:30:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/2026-11-15_1830.jpg",
+    "category_id": 5,
+    "venue_id": "d28acbaf8c88bdd776838025d877d972328c5ed649e3251336cc2a9552a24cd0"
+  },
+  {
+    "id": 1048,
+    "title": "Minichef pastelero",
+    "description": null,
+    "start_time": "2026-11-13T21:00:00Z",
+    "end_time": "2026-11-13T22:00:00Z",
+    "image": "https://clownfront.plazasanmiguel.io/media/public/activity/minichef_pastelero_13nov.jpg",
+    "category_id": 2,
+    "venue_id": "b89d440729388edcec6fbf277bab91f6a72c53571c494f4c03edc9e199462ec0"
+  }
+]

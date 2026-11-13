@@ -1,0 +1,16 @@
+[project]
+name = "pygraphistry-demo"
+version = "0.1.0"
+description = "Local demos using PyGraphistry."
+requires-python = ">=3.13,<3.14"
+dependencies = ["duckdb>=2.0.0", "graphistry==0.62.1", "pandas>=3.1.1", "pyarrow>=26.0.1"]
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.scripts]
+demo-e01-pd = "python -m demos.e01-pd"
+demo-e01-dk = "python -m demos.e01-dk"
+plaza-prepare = "python -m plaza.data"
+plaza-demo = "python -m plaza.demo"
+test = "python -m unittest discover -s tests -t . -v"

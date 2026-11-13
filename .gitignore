@@ -1,0 +1,9 @@
+.pdm-python
+.pdm-build/
+pdm.toml
+.venv/
+__pypackages__/
+__pycache__/
+*.py[cod]
+
+.DS_Store
