@@ -1,0 +1,18 @@
+[
+  {
+    "entity_id": "enterprise-venue:VENUE-29DTWCLZ",
+    "id": "VENUE-29DTWCLZ",
+    "type": "enterprise-venue",
+    "collection": "venues",
+    "name": "Plaza San Miguel",
+    "external_id": "VENUE-29DTWCLZ",
+    "description": null,
+    "floor_id": null,
+    "hidden": null,
+    "navigable": null,
+    "amenity": null,
+    "elevation": null,
+    "properties_json": "{\"id\":\"VENUE-29DTWCLZ\",\"countrycode\":\"PE\",\"externalId\":\"VENUE-29DTWCLZ\",\"defaultLanguage\":{\"code\":\"es\",\"name\":\"Spanish\"},\"defaultFloor\":\"f_6995ac1a984770e45e357535\",\"extra\":{\"isInactive\":false},\"languages\":[{\"name\":\"English\",\"code\":\"en\",\"enabled\":true},{\"name\":\"Spanish\",\"code\":\"es\",\"enabled\":true}],\"links\":[],\"logo\":\"https://cdn.mappedin.com/69880e023064bf6e3adbdb43/cd0413d2c17b6482fff5683dd8cffa7d5f065a38.png\",\"slug\":\"plaza-san-miguel\",\"type\":\"shopping-mall\",\"name\":\"Plaza San Miguel\"}",
+    "geometry_json": null
+  }
+]

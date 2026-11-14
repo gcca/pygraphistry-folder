@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mappedin/mappedin-js": "6.31.0"
+  },
+  "private": true,
+  "description": "Install SDK: npm ci --prefix scripts/plazapd/mappedin. Download from repository root: python -m scripts.plazapd.mappedin",
+  "scripts": {
+    "test": "node --test test_export.mjs"
+  }
+}
