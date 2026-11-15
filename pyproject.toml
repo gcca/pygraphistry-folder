@@ -5,6 +5,9 @@ description = "Local demos using PyGraphistry."
 requires-python = ">=3.13,<3.14"
 dependencies = ["duckdb>=2.0.0", "graphistry==0.62.1", "pandas>=3.1.1", "pyarrow>=26.0.1"]
 
+[dependency-groups]
+notebook = ["plotly>=6", "nbformat>=5", "nbclient>=0.10", "ipykernel>=6"]
+
 [tool.pdm]
 distribution = false
 
